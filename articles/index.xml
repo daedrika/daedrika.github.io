@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Dylan Cooper</title>
-    <link>http://people.virginia.edu/~dtc4zv/articles/</link>
+    <link>https://daedrika.github.io/articles/</link>
     <description>Recent content in Articles on Dylan Cooper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Dylan Cooper 2019. Made with Hugo, using the Allegiant theme.</copyright>
     <lastBuildDate>Wed, 02 Jan 2019 16:04:28 -0500</lastBuildDate>
     
-	<atom:link href="http://people.virginia.edu/~dtc4zv/articles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://daedrika.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>smpl.pk — Building scalable software for the internet</title>
-      <link>http://people.virginia.edu/~dtc4zv/articles/smpl-pk/</link>
+      <link>https://daedrika.github.io/articles/smpl-pk/</link>
       <pubDate>Wed, 02 Jan 2019 16:04:28 -0500</pubDate>
       
-      <guid>http://people.virginia.edu/~dtc4zv/articles/smpl-pk/</guid>
+      <guid>https://daedrika.github.io/articles/smpl-pk/</guid>
       <description>Internet scale applications For my fall semester in 2018, I took a course entitled Internet Scale Applications. As you might be able to guess, it was a survey of various techniques that software development teams use to build applications that can serve millions (or billions) of users via the internet. For instance, the professor introduced the concept of multi-tiered architectures, NoSQL databases,
 In order to test our knowledge of the material, we were instructed to build a team of three people and develop a marketplace webapp that would employ a set of techniques we learned in class.</description>
     </item>
